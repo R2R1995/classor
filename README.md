@@ -1,2 +1,2 @@
 # classor
-final project university
+final project in university
